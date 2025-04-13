@@ -45,9 +45,10 @@ GOC2S is built for both beginners and professionals who want to strengthen their
 
 ## 🛠️ Technologies
 
-- Python 3.x
+- Python 3
 - Cybersecurity-related Python libraries (TBD)
-- Simulated cloud environments (VMs, containers, etc.)
+- Docker
+- Kubernete
 - MySQL
 
 ---
