@@ -1,5 +1,7 @@
 # GOC2S (Game of Cloud Computing Security)
 
+![Logo](GOC2S.jpeg)
+
 **GOC2S** is a Python-based cybersecurity lab designed to help build and reinforce knowledge in **cloud computing security**.  
 This project is still under development, but the goal is to offer a hands-on learning environment that covers core cloud security concepts.
 
@@ -46,6 +48,7 @@ GOC2S is built for both beginners and professionals who want to strengthen their
 - Python 3.x
 - Cybersecurity-related Python libraries (TBD)
 - Simulated cloud environments (VMs, containers, etc.)
+- MySQL
 
 ---
 
@@ -53,19 +56,6 @@ GOC2S is built for both beginners and professionals who want to strengthen their
 
 **Still in development** – features and labs are being actively built and tested.  
 Stay tuned for upcoming updates and releases!
-
----
-
-## 🤝 Contributing
-
-Want to contribute or make suggestions? Pull requests and issues are more than welcome.  
-Let’s build something great together!
-
----
-
-## 📜 License
-
-To be defined.
 
 ---
 
